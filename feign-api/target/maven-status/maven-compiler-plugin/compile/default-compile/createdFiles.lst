@@ -1,0 +1,3 @@
+com\shubao\feign\config\DefaultFeignConfiguration.class
+com\shubao\feign\clients\UserClient.class
+com\shubao\feign\pojo\User.class

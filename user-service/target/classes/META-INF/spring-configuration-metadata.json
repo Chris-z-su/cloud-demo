@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "pattern",
+      "type": "com.shubao.user.config.PatternProperties",
+      "sourceType": "com.shubao.user.config.PatternProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "pattern.dateformat",
+      "type": "java.lang.String",
+      "sourceType": "com.shubao.user.config.PatternProperties"
+    },
+    {
+      "name": "pattern.env-shared-value",
+      "type": "java.lang.String",
+      "sourceType": "com.shubao.user.config.PatternProperties"
+    }
+  ],
+  "hints": []
+}

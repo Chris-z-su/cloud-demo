@@ -1,0 +1,7 @@
+com\shubao\user\config\PatternProperties.class
+com\shubao\user\mapper\UserMapper.class
+com\shubao\user\pojo\User.class
+com\shubao\user\UserApplication.class
+com\shubao\user\service\UserService.class
+com\shubao\user\web\UserController.class
+META-INF\spring-configuration-metadata.json
